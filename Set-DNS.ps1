@@ -1,3 +1,5 @@
+# Configure DNS in Windows using PowerShell
+
 # DNS Variables
 $DNS1 = "192.168.56.10"
 $DNS2 = "192.168.56.20"
