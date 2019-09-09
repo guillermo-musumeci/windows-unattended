@@ -1,3 +1,5 @@
+# Configure IP Address, Subnet & Gateway in Windows using PowerShell
+
 # Variables
 $IPAddress = "192.168.56.135"
 $IPSubnetPrefix = "24"
