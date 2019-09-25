@@ -2,6 +2,8 @@
 
 Scripts for unattended deployment of **Windows**
 
+**Auto-Start-BGInfo.ps1** --> Enable Auto Start of BGInfo
+
 **Disable-IE-ESC.ps1** --> Disable Internet Explorer (IE) Enhanced Security Configuration (ESC)
 
 **Install-FireFox.ps1** --> Unattended Install of FireFox for Windows
