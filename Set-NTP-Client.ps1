@@ -2,7 +2,7 @@
 
 # Variables
 $TimeZone = "Romance Standard Time"
-$NTPServer = "ntp.inditex.play"
+$NTPServer = "ntp.kopicloud.local"
 
 # Configure NTP and restart service
 Set-TimeZone -Id $TimeZone -PassThru
