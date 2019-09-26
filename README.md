@@ -15,3 +15,6 @@ Scripts for unattended deployment of **Windows**
 **Set-IP.ps1** --> Set Static IP Address / Subnet / Gateway using PowerShell
 
 **Set-DNS.ps1** --> Set Static DNS using PowerShell
+
+**Set-NTP-Client.ps1** --> Set Time Zone and NTP using PowerShell
+
