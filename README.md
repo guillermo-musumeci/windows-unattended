@@ -18,3 +18,4 @@ Scripts for unattended deployment of **Windows**
 
 **Set-NTP-Client.ps1** --> Set Time Zone and NTP using PowerShell
 
+**Set-Temp.ps1** --> Set Temp Environment Variables using PowerShell
